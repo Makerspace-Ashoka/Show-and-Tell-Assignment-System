@@ -84,7 +84,7 @@ Follow these steps to integrate and run the script in your Google Sheet:
 
    * Click `Allow` to grant the necessary permissions. This is a one-time step.
 
-## 🏃 Usage
+## Usage
 
 Once the script is set up and configured:
 
